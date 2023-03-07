@@ -50,6 +50,9 @@ There are a total of 5 sentiments in the dataset as follows.
 * In the future ,we can repeat the analysis and compare it with the present sentimental analysis to gauge the impact of the initiatives on the ground.
 
 📚 References
-Random Forest Regressor - https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html
+Random Forest Regressor: 
+# https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html
 
-Gradient Boosting Documentation - https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html![Read me Image](https://user-images.githubusercontent.com/59911959/189983400-cf5427a8-66f6-406d-a4c8-ab76bdc81320.png)
+Gradient Boosting Documentation: 
+# https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html![Read me Image]
+(https://user-images.githubusercontent.com/59911959/189983400-cf5427a8-66f6-406d-a4c8-ab76bdc81320.png)
