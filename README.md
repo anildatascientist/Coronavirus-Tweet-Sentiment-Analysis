@@ -1,13 +1,13 @@
 ![Read me Image](https://user-images.githubusercontent.com/59911959/189983631-8b1a97c9-07e9-4a2f-8297-db2c5da3bd6c.png)
 
 
-📋 # Abstract:
+# 📋 Abstract:
 Twitter is American microblogging and social networking service on which users post and interacts with messages known as "tweets". We all know Covid-19 has greatly impacted our lives in many ways. There has been good and bad news all over the world and people have been responding to it on Twitter. So my project is about classifying the tweets into positive, negative, and neutral using different classification models. In the end, we compare their performance and find which one is better.
 
 # Introduction:
 There have been a lot of incidents, both good and bad all around the world. People have written their views on those situations on many social media sites. One of them is Twitter, and we have performed a sentiment analysis on thousands of tweets in our data set to come up with a classification model and segregate those tweets into – positive, negative, and neutral.
 
-🎯 # Business Requirement:
+# 🎯 Business Requirement:
 The CoVid-19 pandemic has shaken the very foundation of society wherein people were forced to live inside their houses because of the lockdown being imposed and also the livelihood of almost every section of the society was impacted.
 
 The objective of our analysis revolved around knowing the sentiments of people from their tweets on Twitter as Twitter is one of the prime means of expression over social media
